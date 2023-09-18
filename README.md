@@ -1,5 +1,7 @@
 ## Vendetta Cleaner
 
+![V-For-Vendetta](https://www.pngmart.com/files/4/V-For-Vendetta-Transparent-Background.png)
+
 ### Deskripsi
 Script `Vendetta_Cleaner.bat` adalah alat yang dirancang untuk membersihkan file-file sementara dan menonaktifkan layanan Windows Update pada sistem Windows 11.
 
