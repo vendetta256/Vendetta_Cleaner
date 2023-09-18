@@ -2,21 +2,6 @@
 
 ![V-For-Vendetta](https://www.pngmart.com/files/4/V-For-Vendetta-Transparent-Background.png)
 
-<script src="https://cdn.translationjs.com/translate.js"></script>
-<div class="translatejs" data-project-id="vendetta256" data-source-language="id" data-hide-language="id" data-show-flag="true" data-show-name="true" data-show-native-name="false" data-show-flag-on-click="true" data-show-dropdown-on-hover="false" data-languages='[
-  { "code": "id", "name": "Indonesian", "nativeName": "Bahasa Indonesia" },
-  { "code": "en", "name": "English", "nativeName": "English" },
-  { "code": "es", "name": "Spanish", "nativeName": "Español" },
-  { "code": "fr", "name": "French", "nativeName": "Français" },
-  { "code": "de", "name": "German", "nativeName": "Deutsch" },
-  { "code": "it", "name": "Italian", "nativeName": "Italiano" },
-  { "code": "ja", "name": "Japanese", "nativeName": "日本語" },
-  { "code": "ko", "name": "Korean", "nativeName": "한국어" },
-  { "code": "pt", "name": "Portuguese", "nativeName": "Português" },
-  { "code": "ru", "name": "Russian", "nativeName": "Русский" },
-  { "code": "zh", "name": "Chinese", "nativeName": "中文" }
-]'></div>
-
 ### Deskripsi
 Script `Vendetta_Cleaner.bat` adalah alat yang dirancang untuk membersihkan file-file sementara dan menonaktifkan layanan Windows Update pada sistem Windows 11.
 
